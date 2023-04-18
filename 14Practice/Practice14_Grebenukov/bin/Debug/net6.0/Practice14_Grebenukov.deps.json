@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Practice14_Grebenukov/1.0.0": {
+        "dependencies": {
+          "LibraryVariant4": "1.0.0"
+        },
+        "runtime": {
+          "Practice14_Grebenukov.dll": {}
+        }
+      },
+      "LibraryVariant4/1.0.0": {
+        "runtime": {
+          "LibraryVariant4.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Practice14_Grebenukov/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "LibraryVariant4/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
